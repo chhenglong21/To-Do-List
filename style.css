@@ -59,3 +59,9 @@ body {
         text-decoration: line-through;
         color: rgb(214, 214, 214);
     }
+
+    @media screen and (max-width: 600px){
+        .todolist {
+            width: 300px;
+        }
+    }
